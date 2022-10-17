@@ -15,7 +15,7 @@ You need to install python3.10 on your computer
 
 The method to run the files is as follows: 
 
-Take hello.cpython-310-darwin.so for example.There is a function named hello() in this file, the parameters of the input function are two integers $x, y$, and the function will print them out.
+Take hello.cpython-310-darwin.so for example.There is a function named hello() in this file, the parameters of the function are two integers $x, y$, and the function will print them out.
 #### Call method
 ```
 % python3.10 -c "from hello import hello;hello(1,2)"
